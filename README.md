@@ -1,2 +1,1 @@
-# scripts
-Scripts for personal use
+Simple Windows (bat) scripts to make task easier :-)
